@@ -421,6 +421,10 @@ footer .credit a {
   .contact .row form {
     padding-top: 0;
   }
+
+  .menu .row .menu-card {
+    width: 125px;
+  }
 }
 /* Mobile Phone */
 @media (max-width: 450px) {
